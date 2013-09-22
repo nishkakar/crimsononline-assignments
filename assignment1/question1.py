@@ -1,3 +1,11 @@
+"""
+Question 1
+
+objectives
+    - get more comfortable with Python
+    - learn how to handle exceptions
+    - work with the file system
+"""
 
 def common_words(filename):
     """question 1a
